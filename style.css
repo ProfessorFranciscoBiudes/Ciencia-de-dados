@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Danfo&display=swap');
 
 :root{
-    --bg-color:#909090;
+    --bg-color:#867676ce;
     --primary-color:#0905; 
     --secundary-color: red;
     --font:  "Danfo", serif;
 }
 
 body{
-    background-color: linear-gradient(var(--bg-color));
+    background-color:var(--bg-color);
 }
