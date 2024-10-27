@@ -8,5 +8,5 @@
 }
 
 body{
-    background-image: linear-gradient(var(--bg-color));
+    background-color: linear-gradient(var(--bg-color));
 }
