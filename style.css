@@ -16,7 +16,7 @@ body{
 }
 
 header{
-    background-color: rgb(15,150, 190);
+    background-color: linear-gradient(40deg,rgb(15,150,190)50% rgb(100,100,240)) ;
     text-align: center;
 }
 
