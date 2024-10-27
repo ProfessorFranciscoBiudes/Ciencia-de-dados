@@ -6,3 +6,7 @@
     --secundary-color: red;
     --font:  "Danfo", serif;
 }
+
+body{
+    background-image: linear-gradient(var(--bg-color));
+}
