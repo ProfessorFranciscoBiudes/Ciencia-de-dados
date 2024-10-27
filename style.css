@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Danfo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Danfo&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
 
 :root{
     --bg-color:#867676ce;
-    --primary-color:#0905; 
+    --primary-color:rgba(203, 219, 203, 0.333); 
     --secundary-color: red;
-    --font:  "Danfo", serif;
+    --font: "Playwrite GB S", cursive;
 }
 
 body{
-    background-color:var(--bg-color);
+    background-image: linear-gradient(45deg, rgb(63, 58, 58) 50%, rgb(97, 97, 214) 100%);
     color: var(--primary-color);
     font-family: var(--font);
 }
